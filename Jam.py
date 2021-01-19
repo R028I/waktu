@@ -1,4 +1,4 @@
 from datetime import datetime
 
-Sekarang = datetime.now()
-print Sekarang
+sekarang = datetime.now()
+print sekarang
